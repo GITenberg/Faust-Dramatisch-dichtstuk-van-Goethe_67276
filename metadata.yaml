@@ -9,6 +9,9 @@ contributor:
     agent_name: Frijlink, Hendrik
     gutenberg_agent_id: '54190'
     url: http://www.gutenberg.org/2009/agents/54190
+covers:
+- cover_type: archival
+  image_path: 67276-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Goethe, Johann Wolfgang von
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
     - https://de.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67276#Faust-Dramatisch-dichtstuk-van-Goethe
 gutenberg_issued: '2022-01-29'
 identifiers:
   gutenberg: '67276'
